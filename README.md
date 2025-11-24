@@ -273,13 +273,14 @@ the network for target species including a hack to include RNA-seq data in the i
 
 ##### Full Applicable Tool 
 
-Felix Holst, Anthony Bolger, Christopher Günther, Janina Maß, Sebastian Triesch, Felicitas Kindel, Niklas Kiel, Nima Saadat, Oliver Ebenhöh, Björn Usadel, Rainer Schwacke, Marie Bolger, Andreas P.M. Weber, Alisandra K. Denton.
-Helixer&mdash;_de novo_ Prediction of Primary Eukaryotic Gene Models Combining Deep Learning and a Hidden Markov Model.
-_bioRxiv_ 2023.02.06.527280; doi: https://doi.org/10.1101/2023.02.06.527280 
+Felix Holst, Anthony M. Bolger, Felicitas Kindel, Christopher Günther, Janina Maß, Sebastian Triesch,
+Niklas Kiel, Nima Saadat, Oliver Ebenhöh, Björn Usadel, Rainer Schwacke, Andreas P. M. Weber, Marie E. Bolger, Alisandra K. Denton.
+"Helixer: ab initio prediction of primary eukaryotic gene models combining deep learning and a hidden Markov model." _Nat Methods_ (2025).  
+DOI: https://doi.org/10.1038/s41592-025-02939-1
 
 ##### Original Development and Description of Deep Neural Network for base-wise predictions
 
 Felix Stiehler, Marvin Steinborn, Stephan Scholz, Daniela Dey, Andreas P M Weber, Alisandra K Denton.
-Helixer: Cross-species gene annotation of large eukaryotic genomes using deep learning. _Bioinformatics_, btaa1044, 
-https://doi.org/10.1093/bioinformatics/btaa1044
+"Helixer: Cross-species gene annotation of large eukaryotic genomes using deep learning." _Bioinformatics_, btaa1044 (2020).  
+DOI: https://doi.org/10.1093/bioinformatics/btaa1044
 
